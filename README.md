@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋 I'm Gwendoline</h1>
-
-<h3 align="center">
-Full-Stack Developer | React • Node.js • Java • Symfony
-</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-🚀 Building web & mobile applications  
-💻 Passionate about full-stack development  
-📍 France  
+💻 React | Node.js | Java | Symfony | Docker  
+🚀 Passionnée par le développement d'applications web et mobiles  
+📍 Metz
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
-I am currently studying **Software Architecture & Applications Engineering** at CESI.
+Développeuse full-stack en formation en **Mastère Manager en Architecture et Applications Logicielles des SI (CESI)**.
 
-I enjoy building **full-stack applications** using modern technologies like React, Node.js, Java and Symfony.
+Je travaille principalement sur des projets **React / Node.js / Java / Symfony** et j'aime construire des applications complètes allant du **frontend jusqu'au déploiement avec Docker**.
 
-I am currently **looking for an alternance or junior developer position**.
+Je recherche actuellement **une alternance ou un poste junior en développement full-stack**.
 
 ---
 
@@ -26,73 +23,12 @@ I am currently **looking for an alternance or junior developer position**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,java,php,symfony,postgres,docker,angular,vue,js,ts,html,css,git" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,java,php,symfony,postgres,docker,js,ts,html,css,angular,vue" />
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧑‍🤝‍🧑 ReuniGo
-Event management web application.
-
-Tech Stack  
-React • Node.js • PostgreSQL • Docker
-
----
-
-### 🏓 ESC Tennis de Table
-Website for a table tennis club.
-
-Tech Stack  
-HTML • CSS • JavaScript
-
----
-
-### 💰 PocketBudget
-Java application to manage personal finances with accounts, categories and transactions.
-
-Tech Stack  
-Java
-
----
-
-### 👟 Quiz IA Chaussure
-AI-based application to identify and classify shoes.
-
-Tech Stack  
-React • Node.js
-
----
-
-### 📱 Ionic Map App
-Mobile application using maps and geolocation.
-
-Tech Stack  
-Ionic • Angular
-
----
-
-### 🛒 E-commerce Website
-Online store with product and order management.
-
-Tech Stack  
-PHP • Symfony
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gwendo8&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwendo8&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -104,10 +40,60 @@ PHP • Symfony
 
 ---
 
+# ⭐ Featured Projects
+
+## 🧑‍🤝‍🧑 ReuniGo
+Application permettant de gérer des réunions.
+
+Tech stack :
+React • Node.js • PostgreSQL • Docker
+
+---
+
+## 🏓 ESC Tennis de Table
+Projet réalisé pour un club de tennis de table permettant la gestion et la présentation des activités du club.
+
+Tech stack :
+HTML • CSS • JavaScript
+
+---
+
+## 💰 PocketBudget
+Application Java permettant de gérer un budget personnel avec comptes, catégories et transactions.
+
+Tech stack :
+Java
+
+---
+
+## 👟 Quiz IA Chaussure
+Application utilisant l'intelligence artificielle pour identifier et classifier des chaussures.
+
+Tech stack :
+React • Node.js
+
+---
+
+## 📱 Application Ionic Carte
+Application mobile permettant de gérer la gestion de carte d'animé.
+
+Tech stack :
+Ionic • Angular
+
+---
+
+## 🛒 Site E-commerce
+Projet e-commerce permettant la gestion de produits et de commandes.
+
+Tech stack :
+PHP • Symfony
+
+---
+
 # 🌐 Portfolio
 
-💼 Portfolio  
-https://portfoliogwendo.netlify.app
+Mon portfolio :  
+👉 https://portfoliogwendo.netlify.app
 
 ---
 
@@ -116,13 +102,11 @@ https://portfoliogwendo.netlify.app
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gwendoline-d-5338601ab/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+LinkedIn
 </a>
 
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and projects!## 🐍 Contribution Snake
-
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+⭐ N'hésitez pas à explorer mes projets et à me contacter !
