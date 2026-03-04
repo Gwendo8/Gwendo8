@@ -31,33 +31,6 @@
 
 ---
 
-# ⭐ Featured Projects
-
-## 🧑‍🤝‍🧑 ReuniGo
-Application permettant de gérer des réunions.
-
-Tech stack :
-React • Node.js • PostgreSQL • Docker
-
----
-
-## 💰 PocketBudget
-Application Java permettant de gérer un budget personnel avec comptes, catégories et transactions.
-
-Tech stack :
-Java
-
----
-
-## 👟 Quiz IA Chaussure
-Application utilisant l'intelligence artificielle pour identifier et classifier des chaussures.
-
-Tech stack :
-React • Node.js
-
----
-
-
 # 🌐 Portfolio
 
 Mon portfolio :  
