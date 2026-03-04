@@ -123,4 +123,6 @@ https://portfoliogwendo.netlify.app
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my repositories and projects!## 🐍 Contribution Snake
+
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
