@@ -41,14 +41,6 @@ React • Node.js • PostgreSQL • Docker
 
 ---
 
-## 🏓 ESC Tennis de Table
-Projet réalisé pour un club de tennis de table permettant la gestion et la présentation des activités du club.
-
-Tech stack :
-HTML • CSS • JavaScript
-
----
-
 ## 💰 PocketBudget
 Application Java permettant de gérer un budget personnel avec comptes, catégories et transactions.
 
@@ -65,21 +57,6 @@ React • Node.js
 
 ---
 
-## 📱 Application Ionic Carte
-Application mobile permettant de gérer la gestion de carte d'animé.
-
-Tech stack :
-Ionic • Angular
-
----
-
-## 🛒 Site E-commerce
-Projet e-commerce permettant la gestion de produits et de commandes.
-
-Tech stack :
-PHP • Symfony
-
----
 
 # 🌐 Portfolio
 
