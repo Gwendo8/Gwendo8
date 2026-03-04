@@ -47,7 +47,3 @@ LinkedIn
 </a>
 
 </p>
-
----
-
-⭐ N'hésitez pas à explorer mes projets et à me contacter !
