@@ -1,32 +1,123 @@
-# Hi 👋 I'm Gwendoline
+<h1 align="center">Hi 👋 I'm Gwendoline</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-💻 Full Stack Developer  
-🚀 React / Node.js / Java / Symfony  
-📍 France  
-
----
-
-## 🔧 Technologies
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+💻 React | Node.js | Java | Symfony | Docker  
+🚀 Passionnée par le développement d'applications web et mobiles  
+📍 France
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=tokyonight)
+Développeuse full-stack en formation en **Mastère Manager en Architecture et Applications Logicielles des SI (CESI)**.
 
----
+Je travaille principalement sur des projets **React / Node.js / Java / Symfony** et j'aime construire des applications complètes allant du **frontend jusqu'au déploiement avec Docker**.
 
-## 🔥 Streak
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=TONUSERNAME&theme=tokyonight)
+Je recherche actuellement **une alternance ou un poste junior en développement full-stack**.
 
 ---
 
-## 🌐 Portfolio
+# 🛠 Tech Stack
 
-➡️ https://portfoliogwendo.netlify.app/
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,java,php,symfony,postgres,docker,js,ts,html,css,angular,vue" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gwendo8&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwendo8&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwendo8&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🧑‍🤝‍🧑 ReuniGo
+Application permettant d'organiser et gérer des événements et réunions.
+
+Tech stack :
+React • Node.js • PostgreSQL • Docker
+
+---
+
+## 🏓 ESC Tennis de Table
+Projet réalisé pour un club de tennis de table permettant la gestion et la présentation des activités du club.
+
+Tech stack :
+HTML • CSS • JavaScript
+
+---
+
+## 💰 PocketBudget
+Application Java permettant de gérer un budget personnel avec comptes, catégories et transactions.
+
+Tech stack :
+Java
+
+---
+
+## 👟 Quiz IA Chaussure
+Application utilisant l'intelligence artificielle pour identifier et classifier des chaussures.
+
+Tech stack :
+React • Node.js
+
+---
+
+## 📱 Application Ionic Carte
+Application mobile permettant l'affichage et la gestion de données géographiques.
+
+Tech stack :
+Ionic • Angular
+
+---
+
+## 🛒 Site E-commerce
+Projet e-commerce permettant la gestion de produits et de commandes.
+
+Tech stack :
+PHP • Symfony
+
+---
+
+# 🌐 Portfolio
+
+Mon portfolio :  
+👉 https://portfoliogwendo.netlify.app
+
+---
+
+# 🤝 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gwendoline-d-5338601ab/">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+⭐ N'hésitez pas à explorer mes projets et à me contacter !
