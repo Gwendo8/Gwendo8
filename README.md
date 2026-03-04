@@ -9,15 +9,6 @@
 
 ---
 
-# 🚀 About Me
-
-Développeuse full-stack en formation en **Mastère Manager en Architecture et Applications Logicielles des SI (CESI)**.
-
-Je travaille principalement sur des projets **React / Node.js / Java / Symfony** et j'aime construire des applications complètes allant du **frontend jusqu'au déploiement avec Docker**.
-
-Je recherche actuellement **une alternance ou un poste junior en développement full-stack**.
-
----
 
 # 🛠 Tech Stack
 
