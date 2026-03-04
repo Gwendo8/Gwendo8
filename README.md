@@ -28,4 +28,4 @@
 
 ## 🌐 Portfolio
 
-➡️ https://ton-portfolio.com
+➡️ https://portfoliogwendo.netlify.app/
