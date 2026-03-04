@@ -42,7 +42,7 @@ Mon portfolio :
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gwendoline-d-5338601ab/">
+<a href="https://www.linkedin.com/in/gwendoline-dardari/">
 LinkedIn
 </a>
 
